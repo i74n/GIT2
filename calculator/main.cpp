@@ -7,10 +7,10 @@ int main()
 	double a, b;
 	char op;
 
-	cout << "a =";
+	cout << "a = ";
 	cin >> a;
 
-	cout << "b =";
+	cout << "b = ";
 	cin >> b;
 
 	cout << "operator: ";
